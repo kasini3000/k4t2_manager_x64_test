@@ -74,6 +74,9 @@ https://gitee.com/chuanjiao10/k4t2/tree/master/docs/k4m命令手册.xlsx
 ```powershell
 $env:LANG = 'zh_CN.UTF-8'
 ```
+#### 中文界面
+
+ ![中文图](k4msnap.jpg)
 
 #### 目的：设定k4m输出英文信息
 
@@ -81,6 +84,11 @@ $env:LANG = 'zh_CN.UTF-8'
 ```powershell
 $env:LANG = 'en_US.UTF-8'
 ```
+
+#### 英文界面
+
+ ![英文图](k4mesnap.jpg)
+
 
 #### 目的：应用名为【abc】，设定副本数为3。
 
